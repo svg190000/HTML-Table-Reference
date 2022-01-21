@@ -1,0 +1,26 @@
+body {
+    background-color: beige;
+}
+h1, h2{
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+table {
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+tbody td {
+    border-top: 1px solid red;
+}
+.colName {
+    color: black;
+    background-color: rgb(175, 175, 127);
+    font-weight: bold;
+    text-align: center;
+}
+.Attributes, .tableTags {
+    background-color: rgb(196, 193, 193);
+}
